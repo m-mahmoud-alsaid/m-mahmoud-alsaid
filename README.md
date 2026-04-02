@@ -1,7 +1,7 @@
 # 💫 About Me
 
 I’m Mohamed Mahmoud,
-a Front-End Developer focused on building responsive and modern web applications using HTML, CSS, JavaScript, and React.
+a Front-End Developer focused on building responsive and modern web applications. 
 I enjoy turning ideas into clean and functional user interfaces.
 
 ---
