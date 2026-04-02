@@ -23,7 +23,7 @@ Currently improving my skills in React and modern JavaScript.
 
 ## Connect with Me
 <div>
-  <a href="https://www.linkedin.com/in/elimcoding"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30"/></a>
-  <a href="https://www.facebook.com/mohamed.mahmoud.907896"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="30" height="30"/></a>
-  <a href="https://www.instagram.com/m.mahmoud.alsaid"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/elimcoding"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="color:#0A66C2;"/></a>
+  <a href="https://www.facebook.com/mohamed.mahmoud.907896"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" style="color:#1877F2;"/></a>
+  <a href="https://www.instagram.com/m.mahmoud.alsaid"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="color:#E4405F;"/></a>
 </div>
