@@ -1,4 +1,5 @@
 # Mohamed Mahmoud
+## About Me
 Front-End Developer focused on building responsive and modern web applications using HTML, CSS, JavaScript, and React.
 
 ---
@@ -10,7 +11,7 @@ Front-End Developer focused on building responsive and modern web applications u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" style="filter: hue-rotate(260deg) brightness(1.2)"/>
 </div>
 
 ---
