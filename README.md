@@ -23,16 +23,16 @@ I enjoy turning ideas into clean and functional user interfaces.
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/elimcoding" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" style="fill:#0A66C2; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" alt="LinkedIn" width="40">
   </a>
   <a href="https://www.facebook.com/mohamed.mahmoud.907896" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" style="fill:#1877F2; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.png" alt="Facebook" width="40">
   </a>
   <a href="https://www.instagram.com/m.mahmoud.alsaid" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" style="fill:#E4405F; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.png" alt="Instagram" width="40">
   </a>
   <a href="mailto:m.mahmoud.alsaid.official@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" style="fill:#D14836; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.png" alt="Gmail" width="40">
   </a>
 </p>
 
