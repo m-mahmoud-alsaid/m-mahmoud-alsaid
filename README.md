@@ -16,33 +16,54 @@
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,py,cs,cpp" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elimcoding)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohamed.mahmoud.907896)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.mahmoud.alsaid)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mahmoud.alsaid.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-mahmoud-alsaid)
+<p align="left">
+  <a href="https://linkedin.com/in/elimcoding">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/mohamed.mahmoud.907896">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/m.mahmoud.alsaid">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:m.mahmoud.alsaid.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/m-mahmoud-alsaid">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=tokyonight)
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-mahmoud-alsaid&theme=radical&no-frame=true&row=1&column=4" />
+</p>
 
 ---
 
