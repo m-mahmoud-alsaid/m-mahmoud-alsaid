@@ -25,16 +25,16 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/elimcoding">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117&logoSize=auto" />
   </a>
   <a href="https://facebook.com/mohamed.mahmoud.907896">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto&labelColor=0D1117&color=1877F2&borderRadius=50%" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117&color=0D1117&logoSize=auto" />
   </a>
   <a href="https://instagram.com/m.mahmoud.alsaid">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto&labelColor=0D1117&color=E4405F&borderRadius=50%" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=0D1117&logoSize=auto" />
   </a>
   <a href="mailto:m.mahmoud.alsaid.official@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=0D1117&color=D14836&borderRadius=50%" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117&logoSize=auto" />
   </a>
   <a href="https://github.com/m-mahmoud-alsaid">
     <img src="https://skillicons.dev/icons?i=github" />
