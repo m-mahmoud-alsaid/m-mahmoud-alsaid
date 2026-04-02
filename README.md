@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud 👋
 
-<img align="right" width="180" height="180" src="https://avatars.githubusercontent.com/m-mahmoud-alsaid" />
+<img style="display:block;" align="right" width="180" height="180" src="https://avatars.githubusercontent.com/m-mahmoud-alsaid" />
 
 ## Junior Software Engineer | Problem Solver | Backend Enthusiast
 
