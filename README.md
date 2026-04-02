@@ -23,26 +23,8 @@
 
 ### Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/elimcoding">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://facebook.com/mohamed.mahmoud.907896">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/m.mahmoud.alsaid">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:m.mahmoud.alsaid.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/m-mahmoud-alsaid">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://linkedin.com/in/elimcoding)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A0A0A)](https://facebook.com/mohamed.mahmoud.907896)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A)](https://instagram.com/m.mahmoud.alsaid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A)](mailto:m.mahmoud.alsaid.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/m-mahmoud-alsaid)
