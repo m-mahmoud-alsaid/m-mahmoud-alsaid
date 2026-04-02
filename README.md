@@ -22,13 +22,13 @@ I enjoy turning ideas into clean and functional user interfaces.
 
 ## Connect With Me
 <p align="center">
-  <a style="text-decoration: none" href="https://www.linkedin.com/in/elimcoding" target="_blank">
+  <a href="https://www.linkedin.com/in/elimcoding" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" alt="LinkedIn" width="40">
   </a>
-  <a style="text-decoration: none" href="https://www.facebook.com/mohamed.mahmoud.907896" target="_blank">
+  <a href="https://www.facebook.com/mohamed.mahmoud.907896" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.png" alt="Facebook" width="40">
   </a>
-  <a  href="https://www.instagram.com/m.mahmoud.alsaid" target="_blank">
+  <a href="https://www.instagram.com/m.mahmoud.alsaid" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.png" alt="Instagram" width="40">
   </a>
   <a href="mailto:m.mahmoud.alsaid.official@gmail.com" target="_blank">
