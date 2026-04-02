@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Mahmoud
 
-<h3 align="center">Junior Frontend Developer | React Enthusiast</h3>
+<h3 align="center">Frontend Developer | Building Web Applications</h3>
 
 ---
 
@@ -22,17 +22,17 @@ I enjoy turning ideas into clean and functional user interfaces.
 
 ## Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/elimcoding">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/elimcoding" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.facebook.com/mohamed.mahmoud.907896">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="https://www.facebook.com/mohamed.mahmoud.907896" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" />
   </a>
-  <a href="https://www.instagram.com/m.mahmoud.alsaid">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/m.mahmoud.alsaid" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" />
   </a>
-  <a href="mailto:m.mahmoud.alsaid.official@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:m.mahmoud.alsaid.official@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
