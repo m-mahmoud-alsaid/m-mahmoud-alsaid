@@ -14,26 +14,17 @@ I enjoy turning ideas into clean and functional user interfaces.
 ---
 
 ## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)
 
 ---
 
-## Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/elimcoding" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" alt="LinkedIn" width="40">
-  </a>
-  <a href="https://www.facebook.com/mohamed.mahmoud.907896" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.png" alt="Facebook" width="40">
-  </a>
-  <a href="https://www.instagram.com/m.mahmoud.alsaid" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.png" alt="Instagram" width="40">
-  </a>
-  <a href="mailto:m.mahmoud.alsaid.official@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.png" alt="Gmail" width="40">
-  </a>
-</p>
+## GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid)
 
 ---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elimcoding)  
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/mohamed.mahmoud.907896)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/m.mahmoud.alsaid)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:m.mahmoud.alsaid.official@gmail.com)
