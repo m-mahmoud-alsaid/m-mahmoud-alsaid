@@ -1,8 +1,5 @@
 # Hi, I'm Mahmoud 👋
-
-<img style="display:block;" align="right" width="180" height="180" src="https://avatars.githubusercontent.com/m-mahmoud-alsaid" />
-
-## Junior Software Engineer | Problem Solver | Backend Enthusiast
+## Frontend Developer
 
 ---
 
@@ -14,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -24,7 +21,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/elimcoding">
@@ -49,22 +46,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-mahmoud-alsaid&theme=radical&no-frame=true&row=1&column=4" />
-</p>
-
----
-
-> 💡 *"Code. Learn. Repeat."*
