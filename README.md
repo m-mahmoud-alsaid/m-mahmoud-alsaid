@@ -28,12 +28,13 @@ I enjoy turning creative designs and layout ideas into real, functional projects
 
 # 📊 GitHub Stats & Achievements:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-alsaid&theme=tokyonight" alt="Mohamed's Coding Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=radical&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-alsaid&theme=radical" alt="Mohamed's Coding Streak" height="180px" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-mahmoud-alsaid&theme=tokyonight&column=7" alt="Mohamed's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-trophies.vercel.app/?username=m-mahmoud-alsaid&theme=radical&margin-w=15" alt="Mohamed's Trophies" height="180px" />
 </p>
 
 ---
