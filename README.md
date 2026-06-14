@@ -20,8 +20,8 @@ I enjoy turning creative designs and layout ideas into real, functional projects
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elimcoding&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elimcoding&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
