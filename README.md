@@ -33,12 +33,11 @@ I enjoy turning creative designs and layout ideas into real, functional projects
     <td><img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-alsaid&theme=radical" alt="Coding Streak" height="180px" /></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical" alt="Top Languages" height="165px" />
+</p>
 
 <br>
 
