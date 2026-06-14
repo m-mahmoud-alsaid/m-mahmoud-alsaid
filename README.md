@@ -16,11 +16,11 @@ I enjoy turning creative designs and layout ideas into real, functional projects
 ---
 
 # 🛠️ Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -28,12 +28,12 @@ I enjoy turning creative designs and layout ideas into real, functional projects
 
 # 📊 GitHub Stats & Achievements:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elimcoding&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elimcoding&theme=tokyonight" alt="Mohamed's Coding Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-alsaid&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-alsaid&theme=tokyonight" alt="Mohamed's Coding Streak" height="180px" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=elimcoding&theme=tokyonight&column=7" alt="Mohamed's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m-mahmoud-alsaid&theme=tokyonight&column=7" alt="Mohamed's Trophies" />
 </p>
 
 ---
