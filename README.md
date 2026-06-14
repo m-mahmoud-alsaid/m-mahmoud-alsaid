@@ -35,10 +35,6 @@ I enjoy turning creative designs and layout ideas into real, functional projects
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-alsaid&layout=compact&theme=radical" alt="Top Languages" height="165px" />
-</p>
-
 <br>
 
 ### 🏆 GitHub Trophies
