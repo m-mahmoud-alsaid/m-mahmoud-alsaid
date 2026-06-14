@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Mohamed<br><br>I’m a self-taught Frontend Developer focused on building simple and clean user interfaces using HTML, CSS, and JavaScript.<br><br>I enjoy turning ideas into real projects and solving real-world problems through code.  <br>Recently, I’ve been working on small applications to improve my logic and coding structure.
+Hi, I'm Mohamed Mahmoud👋
+
+I’m a **Frontend Web Developer** focused on building high-performance, responsive, and visually clean user interfaces using React, JavaScript, and Tailwind CSS.
+
+I enjoy turning creative designs and layout ideas into real, functional projects. Recently, I’ve been engineering web applications utilizing modern, feature-based architectures and smart state management—always prioritizing an exceptional user experience (UX) and clean, maintainable code structure.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.mahmoud.907896) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.mahmoud.alsaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/elimcoding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.mahmoud.alsaid.official@gmail.com) 
